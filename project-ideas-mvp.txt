@@ -1,0 +1,17 @@
+Pitch/Idea:
+Create an app that allows users to sign in to input their stock trades to track progress.
+
+MVP:
+- Users can sign in to their account
+- Users can create posts of their trades
+- Users can add photos of stock charts
+- Users can caption those photos 
+- Users can add statistics such as the time entered, if the trade profitable
+	this will allow users to track what they did right and wrong
+- Users will be able to access these entries from a feed  to review and study them
+- Users will be able to delete and edit posts directly on the feed
+
+Future Features:
+-Allow users to follow other users to learn from others
+-Have their statistics graphed for visual reference
+-Users can leave comments on others posts for feedback
